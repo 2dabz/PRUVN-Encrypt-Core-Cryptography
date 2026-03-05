@@ -1,4 +1,4 @@
-# PRUVN-Encrypt-Core
+# PRUVN Encrypt-Core Cryptography
 AES-256-GCM file and folder encryption with Argon2id key derivation — core encryption module for PRUVN Encrypt
 
 ## Algorithms
